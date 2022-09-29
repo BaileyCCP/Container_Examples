@@ -2,7 +2,7 @@
 
 This hello.c example will be going over the most basic process to create docker containers specifically for cradlepoint routers.
 
-## use cases
+## Use Cases
 
 * Build containers for cradlepoint routers, with a quick and easy setup.
 
